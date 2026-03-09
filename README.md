@@ -1,1 +1,1 @@
-[Site preview] ([site preview](https://fahmeeel.github.io/opub-mockup/))
+[Site preview] (https://fahmeeel.github.io/opub-mockup/)
